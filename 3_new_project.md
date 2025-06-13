@@ -45,6 +45,18 @@ simpy
 vidigi
 ```
 
+```
+# requirements-dev.in
+
+# Include all the runtime dependencies
+-r requirements.in
+
+# Add the development-specific tools
+pip-tools
+pytest
+ipykernel
+```
+
 ### Create the requirements.txt files using pip-tools
 When you have finished your development (or at any point at which you want to
 be able to share the code), create the requirements.txt and requirements-dev.txt
