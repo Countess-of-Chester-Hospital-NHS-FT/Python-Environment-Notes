@@ -2,7 +2,7 @@
 Notes and SOPs about how to reproduce development environments and deployment environments using conda and venv
 
 ## How to use
-Read the overview for the general approach to environment management.
+Read the overview for the general approach to environment management (click on 1_overview.md).
 
 Refer to the glossary if ever confused about the different environment file types.
 
